@@ -48,3 +48,7 @@ You can access the dataset in 3 ways.
 
     dataset = load_dataset("mohammadtaghizadeh/Dollar_Rial_Price_Dataset")
     ```
+
+
+## Crawler and How to Update Dataset
+The important point of this dataset is that we also published our price extractor **crawler** in this project, which you can run at any time to update the dataset. To run this crawler, you need to install your system's **webdriver** so that the **Selenium** crawler can extract the new data.
