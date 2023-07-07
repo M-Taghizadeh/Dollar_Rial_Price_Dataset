@@ -35,16 +35,16 @@ We collected the following values ​​for each day.
 
 
 ## Dataset Usage
-You can also access the dataset in 3 ways.
+You can access the dataset in 3 ways.
 
-1. Download the original dataset file in CSV format and use it from [here](https://github.com/M-Taghizadeh/Dollar_Rial_Price_Dataset/blob/master/Dollar_Rial_Price_Dataset.csv)
+1. [**Github**](https://github.com/M-Taghizadeh/Dollar_Rial_Price_Dataset): Download the original dataset file in CSV format and use it from [here](https://github.com/M-Taghizadeh/Dollar_Rial_Price_Dataset/blob/master/Dollar_Rial_Price_Dataset.csv)
 
-2. Load Dataset from **Hugging Face** repository with the following command.
+
+2. [**Kaggle**](https://www.kaggle.com/datasets/mohammadtaghizadeh/dollar-rial-price-dataset)
+
+3. [**Hugging Face**](https://huggingface.co/datasets/mohammadtaghizadeh/Dollar_Rial_Price_Dataset): Load Dataset from Hugging Face repository with the following command.
     ```python
     from datasets import load_dataset
 
     dataset = load_dataset("mohammadtaghizadeh/Dollar_Rial_Price_Dataset")
     ```
-
-3. Download Dataset from **Kaggle**
-
