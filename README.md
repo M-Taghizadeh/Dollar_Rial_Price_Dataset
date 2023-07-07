@@ -37,7 +37,7 @@ We collected the following values ​​for each day.
 ## Dataset Usage
 You can also access the dataset in 3 ways.
 
-1. Download the original dataset file in CSV format and use it from [here]()
+1. Download the original dataset file in CSV format and use it from [here](https://github.com/M-Taghizadeh/Dollar_Rial_Price_Dataset/blob/master/Dollar_Rial_Price_Dataset.csv)
 
 2. Load Dataset from **Hugging Face** repository with the following command.
     ```python
